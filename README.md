@@ -1,6 +1,23 @@
-# Hailuo AI API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/hailuo">
+    <h3 align="center">Hailuo AI API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect Hailuo fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/hailuo.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/hailuo"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/hailuo-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/hailuo)](https://skills.sh/runapi-ai/hailuo)
+
+</div>
+<br/>
 
 Generate video with Hailuo 02 and 2.3 text-to-video and image-to-video in Pro and Standard modes. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Hailuo through RunAPI.
 
