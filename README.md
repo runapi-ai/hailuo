@@ -1,5 +1,7 @@
 # Hailuo AI API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/hailuo)](https://skills.sh/runapi-ai/hailuo)
+
 Generate video with Hailuo 02 and 2.3 text-to-video and image-to-video in Pro and Standard modes. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Hailuo through RunAPI.
 
 The canonical agent file is `skills/hailuo/SKILL.md`.

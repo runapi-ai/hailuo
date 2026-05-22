@@ -4,6 +4,17 @@ description: hailuo ai api skill for RunAPI. Use when the user asks for hailuo a
 documentation: https://runapi.ai/models/hailuo
 provider_page: https://runapi.ai/providers/minimax
 catalog: https://runapi.ai/models
+metadata:
+  openclaw:
+    homepage: https://runapi.ai/models/hailuo
+    primaryEnv: RUNAPI_API_KEY
+    requires:
+      env:
+      - RUNAPI_API_KEY
+    envVars:
+    - name: RUNAPI_API_KEY
+      required: true
+      description: RunAPI API key from https://runapi.ai/api_keys.
 ---
 
 # hailuo ai api Skill for RunAPI
