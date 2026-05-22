@@ -9,12 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://runapi.ai/models/hailuo.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/hailuo"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/hailuo-sdk"><strong>SDK</strong></a>
+  <a href="https://runapi.ai/models/hailuo"><strong>Model Reference</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/hailuo-sdk"><strong>SDK</strong></a>
 </p>
 
 <div align="center">
 
-[![skills.sh](https://skills.sh/b/runapi-ai/hailuo)](https://skills.sh/runapi-ai/hailuo)
+[![skills.sh](https://www.skills.sh/b/runapi-ai/hailuo)](https://www.skills.sh/runapi-ai/hailuo/hailuo)
+[![ClawHub](https://img.shields.io/badge/ClawHub-runapi--hailuo-111827)](https://clawhub.ai/runapi-ai/runapi-hailuo)
+[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/hailuo)
+[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
+[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
+[![License](https://img.shields.io/github/license/runapi-ai/hailuo)](https://github.com/runapi-ai/hailuo/blob/main/LICENSE)
 
 </div>
 <br/>
